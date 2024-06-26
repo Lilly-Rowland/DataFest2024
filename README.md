@@ -1,2 +1,2 @@
 # DataFest2024
-Our project for the 2024 ASA DataFest analyzed data from CourseKata, exploring the link between confidence and performance, inspired by the Dunning-Kruger effect. We placed second in data visualization for our findings.
+This code was developed for the 2024 American Statistical Association's DataFest to interpret and visualize data obtained from the educational website CourseKata. This project focuses on exploring the relationship between confidence levels and performance, drawing inspiration from the Dunning-Kruger effect. We were honored to receive second place in the data visualization category for our insights and presentation of findings.
